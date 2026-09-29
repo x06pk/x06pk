@@ -2,6 +2,8 @@
 
 ### Senior Full-Stack Developer
 
+I'm a Senior Full-Stack Developer with nearly a decade of professional experience in software development, combining the long-term development and maintenance of enterprise systems with a modern full-stack toolkit.
+
 I build web applications, APIs, and business systems. My work spans backend architecture, relational databases, modern frontend development, and automated delivery, with a focus on solving practical business problems.
 
 ## Tech Stack
@@ -14,6 +16,21 @@ I build web applications, APIs, and business systems. My work spans backend arch
 | DevOps | Docker, Docker Compose, GitHub Actions, CI/CD |
 | Tools | Git, GitHub |
 | Exploring | Three.js, AI-assisted development, SaaS architecture |
+
+## Professional Experience
+
+### Senior Software Developer — IPSM/MG
+
+**2016/2017 – Present · Belo Horizonte, Brazil**
+
+Extensive experience developing, maintaining, and evolving enterprise and institutional software, supporting complex business rules and long-term operational needs.
+
+- Develop and maintain applications using PHP and Scriptcase, including the ongoing evolution of legacy systems.
+- Work with PostgreSQL and SQL Server on complex SQL queries, relational data modeling, migrations, and reporting.
+- Build and evolve HR, financial, administrative, and document management systems.
+- Develop payment-related systems and payment and service integrations with the Minas Gerais State Secretariat of Finance (SEF/MG).
+- Implement REST APIs, integrations between systems, and complex business rules.
+- Use Git to support collaborative software development and version control.
 
 ## Featured Projects
 
