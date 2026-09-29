@@ -1,31 +1,46 @@
-# x06pk
+# Hi, I'm Patrick
 
 ### Senior Full-Stack Developer
 
-I build web applications and REST APIs, connecting thoughtful interfaces with reliable backend services. My work spans frontend development, backend architecture, relational databases, and automated delivery.
+I build web applications, APIs, and business systems. My work spans backend architecture, relational databases, modern frontend development, and automated delivery, with a focus on solving practical business problems.
 
-## Technical expertise
+## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | React, TypeScript |
-| Backend | Node.js, Fastify, PHP |
-| Data | PostgreSQL, SQL Server, Prisma |
-| Delivery | Docker, GitHub Actions, CI/CD |
-| Integration | REST APIs |
+| Frontend | React, TypeScript, JavaScript, Vite, Tailwind CSS |
+| Backend | Node.js, TypeScript, Fastify, PHP, REST APIs |
+| Data | PostgreSQL, SQL Server, Prisma, SQL |
+| DevOps | Docker, Docker Compose, GitHub Actions, CI/CD |
+| Tools | Git, GitHub |
+| Exploring | Three.js, AI-assisted development, SaaS architecture |
 
-## Engineering approach
+## Featured Projects
 
-- Clear architecture and maintainable code across the stack.
-- Well-defined API contracts and thoughtful relational data modeling.
-- Consistent development environments and automated delivery workflows.
-- Practical solutions shaped by product requirements.
+### [BakeFlow](https://github.com/x06pk/bakeflow)
 
-## Featured projects
+A full-stack management platform for bakery operations, covering purchasing, suppliers, batch inventory, versioned recipes, production planning and execution, waste tracking, costs, reporting, and traceability.
 
-- **BakeFlow**
-- **HelenAI**
+**Stack:** React, TypeScript, Node.js, Fastify, PostgreSQL, Prisma, Docker.
 
----
+### [HelenAI](https://github.com/x06pk/helenAI)
 
-Focused on building software that is clear to use, maintain, and evolve.
+A project focused on AI and modern web experiences.
+
+## What I Build
+
+- Business systems and internal platforms
+- SaaS products
+- REST APIs and integrations
+- Data-intensive applications
+- Backend architecture
+- Automation and developer tooling
+- AI-powered applications
+
+## Engineering Approach
+
+- Clear architecture with explicit responsibilities and maintainable code.
+- Well-defined API contracts and deliberate relational data modeling.
+- Automated validation to support reliable changes and delivery.
+- Reproducible environments across development and deployment.
+- Practical solutions guided by real business problems.
